@@ -1,4 +1,5 @@
-# Website do dark0 g0d 1231294c ew klcopasjkc tempo e tal (clima)
+# Website de clima (tempo (weather (darkweather)))
+de autoria de Dark0G0d
 
 ![screenshot3](https://github.com/afonsopc/pagman-darkweather/assets/116525378/5fe43c47-d688-4921-b16c-6e43867c950e)
 
